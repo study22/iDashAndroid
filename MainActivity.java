@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        loadUrl("https://www.idash.gq");
+        loadUrl("https://www.idash.gq/?fff#pin=31231");
 
         FloatingActionButton fab = findViewById(R.id.fab);
         //fab.setBackgroundColor(Color.YELLOW);
