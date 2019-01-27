@@ -9,7 +9,7 @@ import android.webkit.WebViewClient;
  */
 
 public class myWebClient extends WebViewClient {
-//committing
+//committing2
     @Override
     public void onPageStarted(WebView view, String url, Bitmap favicon) {
         // TODO Auto-generated method stub
